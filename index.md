@@ -7,7 +7,7 @@ In AI, I am interested in distributed learning, reinforcement learning, unsuperv
 
 ---
 [Revisiting Neural Architecture Search](https://arxiv.org/abs/2010.05719)
-
+Anubhav Garg, Amit Kumar Saha, Debo Dutta
 ---
 [Direct Federated Neural Architecture Search](https://arxiv.org/abs/2010.06223)
 
@@ -18,7 +18,7 @@ In AI, I am interested in distributed learning, reinforcement learning, unsuperv
 
 ### News
 
-- [Project 1 Title](http://example.com/)
+- 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
