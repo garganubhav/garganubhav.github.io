@@ -1,18 +1,19 @@
-## Portfolio
 
----
+### Pulications
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[NASIB: Neural Architecture Search withIn Budget](https://arxiv.org/abs/1910.08665)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Revisiting Neural Architecture Search](https://arxiv.org/abs/2010.05719)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Direct Federated Neural Architecture Search](https://arxiv.org/abs/2010.06223)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Katib: A Distributed General AutoML Platform on Kubernetes](https://opml19papers.usenix.hotcrp.com/doc/opml19papers-final52.pdf?cap=052aDJ1RaUal6PE)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
