@@ -1,10 +1,7 @@
 title: Anubhav Garg # your name (or website title) here
 logo: "/images/0.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! I am a Research Engineer at Cisco, currently leading the research efforts in AI.
-  <br><br>
-  In AI, I am interested in distriuted learning, reinforcement learning, unsupervised learning and NLP. At Cisco, I have contriuted in the areas of federated learning and AutoML. I have published a prior project on budgeted NAS at NeurIPSMetalearnWorkshop 2019 and another project, Katib-NAS at OpML2019.
-  <br><br>
+  Email : anubhavgarg5@gmail.com
   <a href="https://www.linkedin.com/in/anubhavgarg5/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
