@@ -1,4 +1,6 @@
-
+Hi! I am a Research Engineer at Cisco, currently leading the research efforts in AI.
+<br><br>
+In AI, I am interested in distriuted learning, reinforcement learning, unsupervised learning and NLP. At Cisco, I have contriuted in the areas of federated learning and AutoML. I have published a prior project on budgeted NAS at NeurIPSMetalearnWorkshop 2019 and another project, Katib-NAS at OpML2019.
 ### Pulications
 
 [NASIB: Neural Architecture Search withIn Budget](https://arxiv.org/abs/1910.08665)
