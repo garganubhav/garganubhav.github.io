@@ -17,12 +17,7 @@ In AI, I am interested in distributed learning, reinforcement learning, unsuperv
 ---
 
 ### News
-
-- 
-- [Project 2 Title]
-- [Project 3 Title]
-- [Project 4 Title]
-- [Project 5 Title]
+12/20. I have transferred to Cisco Meraki
 
 ---
 
