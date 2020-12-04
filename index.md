@@ -13,7 +13,7 @@ Anubhav Garg, Amit Kumar Saha and Debo Dutta, [Revisiting Neural Architecture Se
 
 ---
 
-Abhishek Singh*, Anubhav Garg*, Jinan Zhou, S. Dubey and Debo Dutta, [NASIB: Neural Architecture
+Abhishek Singh<sup>*</sup>, Anubhav Garg<sup>*</sup>, Jinan Zhou, S. Dubey and Debo Dutta, [NASIB: Neural Architecture
 Search in Budget](https://arxiv.org/abs/1910.08665)
 , NeurIPS Workshop on Metalearning 2019
 
