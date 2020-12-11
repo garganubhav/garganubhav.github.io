@@ -1,9 +1,8 @@
  <font size="3">
  
-Hi! I am a Research Engineer at Cisco Meraki, currently leading the research efforts in AI.
+Hi! I am a Research Engineer at Cisco Meraki, currently leading the research efforts in AI. 
 <br><br>
-In AI, I am interested in distributed learning, meta-learning, unsupervised learning and NLP. At Cisco, I have worked on research prolems in AutoML and federated learning. I have published a prior project on budgeted NAS at NeurIPS Metalearning Workshop 2019 and another project, Katib-NAS at USENIX Conference on Operational
-Machine Learning 2019. 
+My goal is to develop highly autonomous systems for the benefit of society. In AI, I am interested in distributed learning, meta-learning, unsupervised learning and NLP. I have worked on resource-efficient AutoML and federated learning, to make our machines more intelligent while taking into account issues of privacy and carbon-footprint.
 
 Prior to joining Cisco full-time, I participated in the Cisco International Internship Program at San Jose. Previously, I completed a dual degree program in M.Sc. Physics and B.E. Computer Science from BITS Pilani, Rajasthan.
 
