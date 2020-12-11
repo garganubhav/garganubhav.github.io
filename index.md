@@ -4,7 +4,7 @@ Hi! I am a Research Engineer at Cisco Meraki, currently leading the research eff
 <br><br>
 My goal is to develop highly autonomous systems for the benefit of society. In AI, I am interested in distributed learning, meta-learning, unsupervised learning, and NLP. I have worked on resource-efficient AutoML and federated learning, to make our machines more intelligent while taking into account issues of privacy and carbon-footprint.
 
-Prior to joining Cisco full-time, I participated in the Cisco International Internship Program at San Jose. Previously, I spent 4 wonderful years at BITS Pilani, Rajasthan.
+Before joining Cisco full-time, I participated in the Cisco International Internship Program at San Jose. Prior to that, I spent 4 wonderful years at BITS Pilani, Rajasthan.
 
 </font>
  <br><br>
