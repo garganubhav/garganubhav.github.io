@@ -8,6 +8,7 @@ Machine Learning 2019.
 Prior to joining Cisco full-time, I participated in the Cisco International Internship Program at San Jose. Previously, I completed a dual degree program in M.Sc. Physics and B.E. Computer Science from BITS Pilani, Rajasthan.
 
 </font>
+ <br><br>
  
 ### Pulications
 
@@ -34,7 +35,8 @@ Jinan Zhou, Andrey Velichkevich, Kirill Prosvirov, Anubhav Garg, Yuji Oshima and
 ---
 
 ### News
-12/20. I have transferred to Cisco Meraki
+
+12/20. I have moved to Meraki.
 
 ---
 
