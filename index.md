@@ -9,7 +9,7 @@ Before joining Cisco full-time, I participated in the Cisco International Intern
 </font>
  <br><br>
  
-### Pulications
+### Publications
 
 Anubhav Garg, Amit Kumar Saha and Debo Dutta, [Direct Federated Neural Architecture Search](https://arxiv.org/abs/2010.06223),
 Preprint 2020
