@@ -37,6 +37,8 @@ Jinan Zhou, Andrey Velichkevich, Kirill Prosvirov, Anubhav Garg, Yuji Oshima and
 
 12/20. I have moved to Meraki.
 
+03/21. DFNAS has been accepted to the Distributed and Private Machine Learning (DPML) Workshop at ICLR 2021.
+
 ---
 
 
