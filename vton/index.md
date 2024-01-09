@@ -1,5 +1,4 @@
-<font size="3">
-
+---
 
 # Ongoing Research: Virtual Apparel Experiences Using Diffusion Models
 
@@ -11,8 +10,6 @@ This ongoing research focuses on employing diffusion models to generate photorea
 - **Consumers:** Provides a convenient and immersive virtual try-on experience, enhancing the online shopping journey.
 
 ### Try the Tool:  
-Experience our cutting-edge virtual try-on technology firsthand! Use the tool [here](https://aaa31bbf045cf88e4b.gradio.live/).
+Use the tool [here](https://aaa31bbf045cf88e4b.gradio.live/).
 
-
-</font>
-<br><br>
+---
