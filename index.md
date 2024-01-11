@@ -1,6 +1,6 @@
  <font size="3">
  
-Hi! I am an ML Engineer 2 at Cisco Meraki, currently leading the research efforts in AI. 
+Hi! I am an ML Engineer 2 at Cisco Meraki, currently leading the research and development efforts in AI. 
 <br><br>
 My goal is to develop highly innovative AI technology, specifically in the domain of computer vision and NLP. Before, I was a Research Engineer at Cisco, working on resource-efficient AutoML and federated learning, to make our machines more intelligent while taking into account issues of privacy and carbon footprint.
 
