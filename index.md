@@ -2,7 +2,7 @@
  
 Hi! I am an ML Engineer 2 at Cisco Meraki, currently leading the research and development efforts in AI. 
 <br><br>
-My goal is to develop highly innovative AI technology, specifically in the domain of computer vision and NLP. Before, I was a Research Engineer at Cisco, working on resource-efficient AutoML and federated learning, to make our machines more intelligent while taking into account issues of privacy and carbon footprint.
+My goal is to develop highly innovative AI technology, specifically in the domain of computer vision. Before, I was a Research Engineer at Cisco, working on resource-efficient AutoML and federated learning, to make our machines more intelligent while taking into account issues of privacy and carbon footprint.
 
 Before joining Cisco full-time, I participated in the Cisco International Internship Program at San Jose. Prior to that, I spent 4 wonderful years at BITS Pilani, Rajasthan.
 
